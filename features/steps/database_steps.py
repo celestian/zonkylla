@@ -5,7 +5,6 @@
 
 '''Database steps'''
 
-import os
 from behave import given  # pylint: disable=no-name-in-module
 
 from zonkylla.core.config import Config
